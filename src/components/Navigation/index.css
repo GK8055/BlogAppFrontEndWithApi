@@ -1,0 +1,20 @@
+.navigation_container{
+    display: flex;
+    background-color: lightgrey; 
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    margin-top: 0px;
+    min-height:2500px;
+}
+.icon_size{
+    height:30px;
+    width:30px;
+    color: black;
+    margin: 10px;
+}
+.link_text_decoration{
+    text-decoration: none;
+    color: black;
+}
